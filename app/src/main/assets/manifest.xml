@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lockscreen version="1" frameRate="20" displayDesktop="true" frameRateCharging="30" screenWidth="720">
+<Wallpaper src = "default_lock_wallpaper_snow.jpg"/>
+<Group y="200">
+    	<Image x="#screen_width/2" y="160" src="clock_back.png" align="center"/>
+		<DateTime  x="450" y="430" color="#ffffff" size="25" format="yyyy/MM/dd "  align="center" alignV="center"/>
+		<Image x="#screen_width/2" y="241" antiAlias="true" centerX="8.5" centerY="120" angle="#hour12*30+#minute/2"  src="clock_hour.png" align="center"/>
+		<Image x="#screen_width/2" y="189" antiAlias="true" centerX="9.5" centerY="168"  angle="#minute*6" src="clock_minute.png" align="center"/>
+		<Image x="#screen_width/2" y="195" antiAlias="true" centerX="7" centerY="163"  angle="#second*6" src="clock_sec.png" align="center"/>
+</Group>	
+</Lockscreen>
