@@ -1,0 +1,20 @@
+<Config>
+ <Group text="音乐插件">
+    <CheckBox text="提示文字" id="show_text" default="0"/>
+	<NumberInput text="音乐插件上下移动" summary="负值上移" id="music_y" default="0"/>
+ </Group>
+ <Group text="锁屏文字">
+    <StringInput text="文字颜色" id="text_color" default="#ffffffff"/>
+	<NumberInput text="文字大小" id="text_size" default="40"/>
+    <NumberInput text="文字左右移动" summary="负值左移" id="text_x" default="0"/>
+    <NumberInput text="文字上下移动" summary="负值上移" id="text_y" default="0"/>
+	<StringInput text="锁屏文字" id="Info"/>
+ </Group>
+ <Group text="联系方式">
+    <StringChoice text="如果有大的bug请尽量发截图给我" summary="qw13131wang@qq.com"/>
+	<StringChoice text="如果你有什么建议或问题可联系我" summary="miui论坛“不是我本人”"/>
+ </Group>
+ <Group text="广告位">
+	<StringChoice text="支持我，可以去购买我的付费主题" summary="认准“不是我本人”"/>
+ </Group>
+</Config>  

@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Lockscreen version="1" frameRate="25" screenWidth="720">
+
+    <Wallpaper src = "default_lock_wallpaper_snow.jpg"/>
+
+	<Image x="60" y="0" src="m.png"> 
+      <PositionAnimation>
+       <Position x="60" y="800" time="10000"/>
+      </PositionAnimation>
+      <RotationAnimation>
+       <Rotation angle="0" time="10"/>
+       <Rotation angle="360" time="5000"/> 
+      </RotationAnimation>
+      <AlphaAnimation> 
+       <Alpha a="255" time="0"/>
+       <Alpha a="255" time="9500"/>
+       <Alpha a="0" time="10000"/>
+      </AlphaAnimation>
+    </Image>
+	<Image x="160" y="0" src="m.png"> 
+      <PositionAnimation>
+       <Position x="160" y="1000" time="9500"/>
+      </PositionAnimation>
+      <RotationAnimation>
+       <Rotation angle="0" time="10"/>
+       <Rotation angle="360" time="5000"/> 
+      </RotationAnimation>
+      <AlphaAnimation> 
+       <Alpha a="255" time="0"/>
+       <Alpha a="255" time="9500"/>
+       <Alpha a="0" time="10000"/>
+      </AlphaAnimation>
+    </Image>
+	<Image x="260" y="0" src="m.png"> 
+      <PositionAnimation>
+       <Position x="260" y="10" time="100"/>
+       <Position x="260" y="1000" time="12000"/>
+      </PositionAnimation>
+      <RotationAnimation>
+       <Rotation angle="0" time="10"/>
+       <Rotation angle="360" time="5000"/> 
+      </RotationAnimation>
+      <AlphaAnimation> 
+       <Alpha a="255" time="0"/>
+       <Alpha a="255" time="10000"/>
+       <Alpha a="0" time="12000"/>
+      </AlphaAnimation>
+    </Image>
+	<Image x="360" y="0" src="m.png"> 
+      <PositionAnimation>
+       <Position x="360" y="10" time="10"/>
+       <Position x="360" y="1000" time="10000"/>
+      </PositionAnimation>
+      <RotationAnimation>
+       <Rotation angle="0" time="10"/>
+       <Rotation angle="360" time="5000"/> 
+      </RotationAnimation>
+      <AlphaAnimation> 
+       <Alpha a="255" time="0"/>
+       <Alpha a="255" time="9500"/>
+       <Alpha a="0" time="10000"/>
+      </AlphaAnimation>
+    </Image>
+	<Image x="460" y="0" src="m.png"> 
+      <PositionAnimation>
+       <Position x="460" y="20" time="30"/>
+       <Position x="460" y="1000" time="12000"/>
+      </PositionAnimation>
+      <RotationAnimation>
+       <Rotation angle="0" time="10"/>
+       <Rotation angle="360" time="5000"/> 
+      </RotationAnimation>
+      <AlphaAnimation> 
+       <Alpha a="255" time="0"/>
+       <Alpha a="255" time="11000"/>
+       <Alpha a="0" time="12000"/>
+      </AlphaAnimation>
+    </Image>
+	<Image x="560" y="0" src="m.png"> 
+      <PositionAnimation>
+       <Position x="560" y="50" time="10"/>
+       <Position x="560" y="1000" time="15000"/>
+      </PositionAnimation>
+      <RotationAnimation>
+       <Rotation angle="0" time="10"/>
+       <Rotation angle="360" time="5000"/> 
+      </RotationAnimation>
+      <AlphaAnimation> 
+       <Alpha a="255" time="0"/>
+       <Alpha a="255" time="14500"/>
+       <Alpha a="0" time="15000"/>
+      </AlphaAnimation>
+    </Image>
+	<Image x="660" y="0" src="m.png"> 
+      <PositionAnimation>
+       <Position x="660" y="-20" time="10"/>
+       <Position x="660" y="1100" time="22000"/>
+      </PositionAnimation>
+      <RotationAnimation>
+       <Rotation angle="0" time="10"/>
+       <Rotation angle="360" time="5000"/> 
+      </RotationAnimation>
+      <AlphaAnimation> 
+       <Alpha a="255" time="21500"/>
+       <Alpha a="0" time="22000"/>
+      </AlphaAnimation>
+    </Image>
+	<Image x="100" y="0" src="m.png"> 
+      <PositionAnimation>
+       <Position x="100" y="-500" time="10"/>
+       <Position x="100" y="900" time="45000"/>
+      </PositionAnimation>
+      <RotationAnimation>
+       <Rotation angle="0" time="5000"/>
+       <Rotation angle="360" time="10000"/> 
+      </RotationAnimation>
+      <AlphaAnimation> 
+       <Alpha a="255" time="0"/>
+       <Alpha a="255" time="44500"/>
+       <Alpha a="0" time="45000"/>
+      </AlphaAnimation>
+    </Image>
+	<Image x="200" y="0" src="m.png"> 
+      <PositionAnimation>
+       <Position x="200" y="-400" time="5000"/>
+       <Position x="200" y="1000" time="25000"/>
+      </PositionAnimation>
+      <RotationAnimation>
+       <Rotation angle="0" time="5000"/>
+       <Rotation angle="360" time="10000"/> 
+      </RotationAnimation>
+      <AlphaAnimation> 
+       <Alpha a="255" time="0"/>
+       <Alpha a="255" time="24500"/>
+       <Alpha a="0" time="25000"/>
+      </AlphaAnimation>
+    </Image>
+	<Image x="300" y="0" src="m.png"> 
+      <PositionAnimation>
+       <Position x="300" y="-100" time="700"/>
+       <Position x="300" y="1000" time="20000"/>
+      </PositionAnimation>
+      <RotationAnimation>
+       <Rotation angle="0" time="6000"/>
+       <Rotation angle="360" time="10000"/> 
+      </RotationAnimation>
+      <AlphaAnimation> 
+       <Alpha a="255" time="0"/>
+       <Alpha a="255" time="19500"/>
+       <Alpha a="0" time="20000"/>
+      </AlphaAnimation>
+    </Image>
+	<Image x="400" y="0" src="m.png"> 
+      <PositionAnimation>
+       <Position x="400" y="-500" time="700"/>
+       <Position x="400" y="1100" time="24000"/>
+      </PositionAnimation>
+      <RotationAnimation>
+       <Rotation angle="0" time="6000"/>
+       <Rotation angle="360" time="10000"/> 
+      </RotationAnimation>
+      <AlphaAnimation> 
+       <Alpha a="255" time="0"/>
+       <Alpha a="255" time="23500"/>
+       <Alpha a="0" time="24000"/>
+      </AlphaAnimation>
+    </Image>
+	<Image x="500" y="0" src="m.png"> 
+      <PositionAnimation>
+       <Position x="500" y="-200" time="700"/>
+       <Position x="500" y="1000" time="22000"/>
+      </PositionAnimation>
+      <RotationAnimation>
+       <Rotation angle="0" time="6000"/>
+       <Rotation angle="360" time="10000"/> 
+      </RotationAnimation>
+      <AlphaAnimation> 
+       <Alpha a="255" time="0"/>
+       <Alpha a="255" time="21500"/>
+       <Alpha a="0" time="22000"/>
+      </AlphaAnimation>
+    </Image>
+	<Image x="600" y="0" src="m.png"> 
+      <PositionAnimation>
+       <Position x="600" y="-100" time="700"/>
+       <Position x="600" y="1000" time="20000"/>
+      </PositionAnimation>
+      <RotationAnimation>
+       <Rotation angle="0" time="6000"/>
+       <Rotation angle="360" time="10000"/> 
+      </RotationAnimation>
+      <AlphaAnimation> 
+       <Alpha a="255" time="0"/>
+       <Alpha a="255" time="19500"/>
+       <Alpha a="0" time="20000"/>
+      </AlphaAnimation>
+    </Image>
+	<Image x="360" y="0" src="m.png"> 
+      <PositionAnimation>
+       <Position x="360" y="-300" time="700"/>
+       <Position x="360" y="1000" time="15000"/>
+      </PositionAnimation>
+      <RotationAnimation>
+       <Rotation angle="0" time="600"/>
+       <Rotation angle="360" time="10000"/> 
+      </RotationAnimation>
+      <AlphaAnimation> 
+       <Alpha a="255" time="0"/>
+       <Alpha a="255" time="14500"/>
+       <Alpha a="0" time="15000"/>
+      </AlphaAnimation>
+    </Image>
+	<Image x="340" y="0" src="m.png"> 
+      <PositionAnimation>
+       <Position x="340" y="-100" time="700"/>
+       <Position x="340" y="1000" time="13000"/>
+      </PositionAnimation>
+      <RotationAnimation>
+       <Rotation angle="0" time="6000"/>
+       <Rotation angle="360" time="10000"/> 
+      </RotationAnimation>
+      <AlphaAnimation> 
+       <Alpha a="255" time="0"/>
+       <Alpha a="255" time="12500"/>
+       <Alpha a="0" time="13000"/>
+      </AlphaAnimation>
+    </Image>
+	<Image x="270" y="0" src="m.png"> 
+      <PositionAnimation>
+       <Position x="270" y="-300" time="700"/>
+       <Position x="270" y="1000" time="10000"/>
+      </PositionAnimation>
+      <RotationAnimation>
+       <Rotation angle="0" time="6000"/>
+       <Rotation angle="360" time="10000"/> 
+      </RotationAnimation>
+      <AlphaAnimation> 
+       <Alpha a="255" time="0"/>
+       <Alpha a="255" time="9500"/>
+       <Alpha a="0" time="10000"/>
+      </AlphaAnimation>
+    </Image>
+	<Image x="170" y="0" src="m.png"> 
+      <PositionAnimation>
+       <Position x="170" y="-300" time="700"/>
+       <Position x="170" y="1000" time="12000"/>
+      </PositionAnimation>
+      <RotationAnimation>
+       <Rotation angle="0" time="6000"/>
+       <Rotation angle="360" time="10000"/> 
+      </RotationAnimation>
+      <AlphaAnimation> 
+       <Alpha a="255" time="0"/>
+       <Alpha a="255" time="11500"/>
+       <Alpha a="0" time="12000"/>
+      </AlphaAnimation>
+    </Image>
+	<Image x="240" y="0" src="m.png"> 
+      <PositionAnimation>
+       <Position x="240" y="-300" time="700"/>
+       <Position x="240" y="1000" time="20000"/>
+      </PositionAnimation>
+      <RotationAnimation>
+       <Rotation angle="0" time="60"/>
+       <Rotation angle="360" time="10000"/> 
+      </RotationAnimation>
+      <AlphaAnimation> 
+       <Alpha a="255" time="0"/>
+       <Alpha a="255" time="19500"/>
+       <Alpha a="0" time="20000"/>
+      </AlphaAnimation>
+    </Image>
+	<Group y="200">
+    	<Image x="#screen_width/2" y="160" src="clock_back.png" align="center"/>
+		<DateTime  x="450" y="430" color="#ffffff" size="25" format="yyyy/MM/dd "  align="center" alignV="center"/>
+		<Image x="#screen_width/2" y="241" antiAlias="true" centerX="8.5" centerY="120" angle="#hour12*30+#minute/2"  src="clock_hour.png" align="center"/>
+		<Image x="#screen_width/2" y="189" antiAlias="true" centerX="9.5" centerY="168"  angle="#minute*6" src="clock_minute.png" align="center"/>
+		<Image x="#screen_width/2" y="195" antiAlias="true" centerX="7" centerY="163"  angle="#second*6" src="clock_sec.png" align="center"/>
+    </Group>	
+    <Unlocker name="unlocker" bounceInitSpeed="1000" bounceAcceleration="1500">
+        <StartPoint x="50" y="800" w="300" h="400">
+		    <Image x="60" y="800" src="unlocker.png"/>
+		</StartPoint>
+        <EndPoint x="360" y="800" w="340" h="420">
+           <Path x="100" y="800">
+               <Position x="0" y="0" />
+               <Position x="360" y="0" />
+           </Path>
+        </EndPoint>
+    </Unlocker>
+
+</Lockscreen>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
